@@ -1,6 +1,6 @@
 {
   "name": "kun-first-test",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "private": false,
   "main": "lib/hhh.umd.min.js",
   "scripts": {
