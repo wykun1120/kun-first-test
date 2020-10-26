@@ -1,5 +1,5 @@
 <template>
-  <div class="boom">boom123</div>
+  <div class="boom">boom123456</div>
 </template>
 
 <script>
